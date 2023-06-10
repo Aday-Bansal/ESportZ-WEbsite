@@ -20,10 +20,15 @@
     width: 50%;
     border-radius: 10px;
 }
+
 .h3{
     font-size: 175%;
     text-align: center;
     color: white;
+}
+
+.display1{
+    display: none;
 }
 .image img{
     height: 245px;

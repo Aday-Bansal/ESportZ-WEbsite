@@ -16,6 +16,17 @@
     .navbar .img img {
         width: 76px;
     }
+    .display1{
+        display: block;
+    }
+  .display2{
+    display: none;
+  }
+  .button-23{
+    font-size: 14px;
+    width: 90%;
+  }
+  .service .bgmi .con3  { width: 90%;}
     .about .a{
         font-size: 50px;
     }
